@@ -15,7 +15,9 @@ You can view the website live here: [Personal Portfolio Webpage](https://lemon-b
 - **Footer:** A footer mentioning that this portfolio is just a fictional example created for educational purposes.
 
 ## Technologies Used
-
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/freecodecamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
 - **HTML5:** For the structure of the webpage.
 - **CSS3:** For styling, including Flexbox and Grid for layout.
 - **Font Awesome:** For social media and contact icons.
@@ -23,6 +25,8 @@ You can view the website live here: [Personal Portfolio Webpage](https://lemon-b
 
 ## Installation and Usage
 
-1. **Clone the Repository:**
+1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/ChiawNa/Personal-Portfolio.git
+   
+2. Open index.html
